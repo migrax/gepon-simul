@@ -11,8 +11,10 @@ This is the simulator for a sleep aware ONU as described in the paper [¨Improvi
 Usage
 -----
 
-The simulator expects to be fed its standard input the packet arrivals tiems of the traffic to be transmitted to the OLT.
+The simulator expects to be fed its standard input the packet arrivals times of the traffic to be transmitted to the OLT.
+
 Invocation
+----------
 
 `simulator [-p psize (bytes)] [-q qw (packets)] [-u nominal uplink (Mb/s)] [-a avg uplink (Mb/s)] [-d dba cycle (ms)] [-w wake up (ms)] [-r refresh (ms)] [-s simulation length (s)]`
 
@@ -30,5 +32,5 @@ Legal
 
 Copyright ⓒ Miguel Rodríguez Pérez <miguel@det.uvigo.es> 2011—2013
 
-This simulator is licenses under the GNU General Public License, version 3 (GPL-3.0). For for information see LICENSE.txt
+This simulator is licensed under the GNU General Public License, version 3 (GPL-3.0). For for information see LICENSE.txt
 
