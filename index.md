@@ -7,6 +7,7 @@ Overview
 --------
 
 This is the simulator for a sleep aware ONU as described in the paper [¨Improving Energy Efficiency in Upstream EPON Channels by Packet Coalescing.¨ (IEEE Trans. on Communications. 2012;60:929-32.).](http://dx.doi.org/10.1109/TCOMM.2012.022712.110142A)
+
 Usage
 -----
 
